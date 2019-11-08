@@ -19,9 +19,9 @@ This is a very basic example does not go into great detail of R or spatial data 
 
 **Prior to this exercise, create a new RStudio Project in a new working directory, name of your choice. Then in Finder or WindowsExplorer, create two sub directories: "SourceData" and "Figures". Place all data into the "SourceData" directory**
 
-The data can be accessed on [github](https://github.com/tjassal/Map-with-ggplot) or as a zip file [here](http://timassal.com/wp-content/uploads/2019/11/KSU_data.zip).
+The data can be accessed on [github](https://github.com/tjassal/Map-with-ggplot) or as a zip file [here](http://timassal.com/wp-content/uploads/2019/11/KSU_data.zip). Special thanks to [MapIt!](https://www.library.kent.edu/map-library/map-it) and Jessica Reese for KSU campus data. 
 
-/rmd_output/3/www.timassal.com/wp-content/uploads/2019/11/KSU_data.zip not found
+
 
 You will need the following packages for this demo: ``raster``, ``ggplot2``, ``sf``, ``gridExtra``
 
